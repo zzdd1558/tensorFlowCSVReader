@@ -5,5 +5,5 @@ csv 파일 형태.
 
 * 실제 사용할경우 28*28 2차원배열로 reshape 
 
-> Label : [:1] <br />
+> Label : [:1] __
 > Feature : [1:] 
